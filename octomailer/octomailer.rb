@@ -1,16 +1,15 @@
-csv_file = File.open('friend_list3.csv', 'r')
+require 'csv'
 
-key_data= csv_file.gets.chomp.split(",").map {|s| s.to_sym}
+template_email = File.read "email1_friend_email_text.html"
 
-csv_data = []
+friend_list = CSV.open("friend_list3.csv", :headers => true, :header_converters => :symbol)
 
-csv_file.each_line do |line|
+array_of_hash=[]
 
-  new_data= line.chomp.split(',')
-  data_hash ={}
-  new_data.each_index do|x|
-    data_hash.merge!(key_data[x] => new_data[x])
-  end
-
-  csv_data.push(data_hash)
+friend_list.each do |row| friend_hash= {}
+   row.each do |i|
+    friend_hash[i[0]] = i[1]
 end
+  array_of_hash.push(friend_hash)
+end
+
