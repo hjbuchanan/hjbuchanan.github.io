@@ -5,7 +5,7 @@ require 'feedzirra'
 
 require 'mandrill'
 
-$mandrill = Mandrill::API.new 'EIVNuvvqtOBJ2Vt1eTJZMA'
+$mandrill = Mandrill::API.new 'XuMezjRIFBuKCXNXqOfEnQ'
 
 template_email = File.read "email1_friend_email_text.html.erb"
 
