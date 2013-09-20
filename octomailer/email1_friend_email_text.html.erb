@@ -1,17 +1,25 @@
 <html>
 <head><meta charset='utf-8'></head>
 <body>
-  <p>Hey FIRST_NAME,</p>
+  <p>Hey <%= first_name %>,</p>
   <br>
   <p>
-    How are you doing? I'm doing fantastic! It's been like NUM_MONTHS_SINCE_CONTACT months
+    How are you doing? I'm doing fantastic! It's been like <%= months_since_contact %> months
     since we last talked. I'm learning to code full-time at Fullstack Academy and enjoying
     my time.
   </p>
   <p>
     I've been blogging about my experiences at Fullstack on my blog.
     Check out my new posts here:
-    <a href="http://nimitmaru.github.io">My Blog</a>
+
+    <% blog_content.entries.each do |entry|
+  if entry.published > 7.days.ago %>
+
+  <%= entry.content %>
+
+    <% end %>
+    <% end %>
+
   </p>
   <p>
     Talk soon,<br>
