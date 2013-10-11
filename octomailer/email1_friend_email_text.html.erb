@@ -4,13 +4,12 @@
   <p>Hey <%= first_name %>,</p>
   <br>
   <p>
-    How are you doing? I'm doing fantastic! It's been like <%= months_since_contact %> months
-    since we last talked. I'm learning to code full-time at Fullstack Academy and enjoying
-    my time.
+    Hey Friend, long time no talk! I hope everything is going well and that you are enjoying this fall weather. I've been a busy learning how to code at Fullstack, I thought I'd shoot you a quick e-mail with a link to my blog. It's just a quick post about some of the things we've been learning and projects we've been working on. I know you've been dying to know more.
   </p>
   <p>
-    I've been blogging about my experiences at Fullstack on my blog.
     Check out my new posts here:
+
+    <a href="http://hjbuchanan.github.io">My Blog</a>
 
     <% blog_content.entries.each do |entry|
   if entry.published > 7.days.ago %>
