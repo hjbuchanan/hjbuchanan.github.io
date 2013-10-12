@@ -4,7 +4,7 @@
   <title><![CDATA[Hanj Does Coding]]></title>
   <link href="http://hjbuchanan.github.io/atom.xml" rel="self"/>
   <link href="http://hjbuchanan.github.io/"/>
-  <updated>2013-10-11T18:09:54-04:00</updated>
+  <updated>2013-10-12T13:18:38-04:00</updated>
   <id>http://hjbuchanan.github.io/</id>
   <author>
     <name><![CDATA[Hannah Jane]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Git it, Girl]]></title>
+    <link href="http://hjbuchanan.github.io/blog/2013/10/12/git-it/"/>
+    <updated>2013-10-12T11:51:00-04:00</updated>
+    <id>http://hjbuchanan.github.io/blog/2013/10/12/git-it</id>
+    <content type="html"><![CDATA[<p>As I mentioned in my previous post, I&rsquo;ve been thinking a lot about &ldquo;women in tech&rdquo;. I think I can account for this for several reasons. The first being the obvious imbalance in the numbers. Imon and I hold down the female fort in our cohort, now with back up from Charlotte. We are constantly outnumebred and are also two of the younger members of the class. All that&rsquo;s fine, but it&rsquo;s definitely makes for a different culture (think GTA and WofWC over Jcrew and The Kardashians). . And then there are those outside of the classroom. Whenever I tell someone what I&rsquo;m doing in New York, they never seem to believe me on the first go round. I get some variation of &ldquo;Coding? Like for computers?&rdquo; Yes, &ldquo;coding for computers.&rdquo; I always wonder what &ldquo;other coding&rdquo; activity they are thinking of when I get this question. This is typically followed up by a &ldquo;what was your major&rdquo; and further shock when they learn that is unrelated to anything STEM. However, my male counterparts have yet to mention any similar encounters. Maybe they are just being mum on the matter. Or maybe no one is surprised that they want to learn how to code.</p>
+
+<p>In a way, I don&rsquo;t mind being a novelty, and I don&rsquo;t mind shattering people&rsquo;s expectations. I&rsquo;m certainly not the first female that has decided to be a developer and I sure won&rsquo;t be the last. To me, what&rsquo;s important is the work I produce. I don&rsquo;t want to be a &ldquo;girl in tech&rdquo;; I want to be a great developer who happens to lack a Y chromosome. What&rsquo;s interesting is seeing this paradigm change as I make this life change. I&rsquo;m excited to see more awesome leaders and developers in the field who happen to be women.</p>
+
+<p>And yet, while there is change in the air, the glaring imbalance is still there. Recently Twitter filed for IPO with an all male board, all male investors, and all male executive officers (except for one, who has been on the job for 5 weeks and is general counsel, so she hardly counts as ). To read more about it, check out this article by the <a href="http://www.nytimes.com/2013/10/05/technology/as-tech-start-ups-surge-ahead-women-seem-to-be-left-behind.html?_r=0">New York Times</a>.  Did I mention that half of Twitter&rsquo;s users are women? Sometimes it&rsquo;s moments like these when you grasp the reality of the imbalance. In a way, it puts more pressure on you to perform&mdash;to not fit the stereotype and to build things that kick ass. Everyone wants that, but I think there&rsquo;s an extra pressure (pressure from themselves) there for women to be exceed expectations.</p>
+
+<p>Which brings me to Sheryl Sandberg. I&rsquo;m sure you&rsquo;ve probably heard of her, the Facebook exec who has been making BIG waves with her book <em>Lean In: Women, Work, and the Will to Lead</em>. I never paid much attention to her, and I didn&rsquo;t really buy into the hype around her message. And then I saw her Ted Talk from 2010. Have I mentioned how much I LOVE Ted Talks? I do. So I watched her Ted Talk, and she drew me in. She&rsquo;s articulate, funny, and easy to follow. Needless to say, <em>Lean In: Women, Work, and the Will to Lead</em> has now made it onto my Christmas time reading list (ah, the luxury that awaits). She talked about several things, but the main one that stuck with me was this:</p>
+
+<p><strong>Sit at the table.</strong> She told a story about how two women accompanied an exec to a meeting, and they declined to sit at the table and instead sat in two chairs against the wall. These were not lowly assistants&mdash;they were managers and major players in their company. And they declined to sit at the table. Sometimes I can feel that tendency in myself&mdash;the desire to withdrawal, to sit back, to not make a waves. I don&rsquo;t know if this is partly my Southern upbringing (wouldn&rsquo;t want to offend anyone, now would we?), my natural introvert and go with the flow personality, or perhaps, a tinge of intimidation and fear or being judged for not saying the perfect thing. So whether it&rsquo;s code, an outing with my fellow developer friends, or just being honest about how I feel&mdash; I&rsquo;m going to sit at the table.</p>
+
+<p>I had someone tell me recently that I &ldquo;could be a lady or be an equal in New York.&rdquo; Well you know what? I don&rsquo;t buy that. I think I can be a lady, an equal, and an excellent developer.</p>
+
+<p>And to sum it all up&hellip;</p>
+
+<p>“How wrong is it for a woman to expect the man to build the world she wants, rather than to create it herself?” Anais Nin.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rolling Rolling Rolling]]></title>
