@@ -4,7 +4,7 @@
   <title><![CDATA[Hanj Does Coding]]></title>
   <link href="http://hjbuchanan.github.io/atom.xml" rel="self"/>
   <link href="http://hjbuchanan.github.io/"/>
-  <updated>2013-10-21T08:48:21-04:00</updated>
+  <updated>2013-10-26T14:04:59-04:00</updated>
   <id>http://hjbuchanan.github.io/</id>
   <author>
     <name><![CDATA[Hannah Jane]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Woah, We're Halfway There]]></title>
+    <link href="http://hjbuchanan.github.io/blog/2013/10/25/week-6/"/>
+    <updated>2013-10-25T09:09:00-04:00</updated>
+    <id>http://hjbuchanan.github.io/blog/2013/10/25/week-6</id>
+    <content type="html"><![CDATA[<h2>Woah, We&rsquo;re Living on a Prayer.</h2>
+
+<p>The halfway marker has come and gone. And I know every week I&rsquo;m all &ldquo;Where has the time gone?&rdquo; Like I don&rsquo;t expect the days to change or something, but still. It really does fly by each week! I knew it would be like this when I decided to do Fullstack, but I didn&rsquo;t think I would feel this pressed for time. I need another day or two tacked onto each week to recover, review, and build something new. There truly are not enough hours in the day.</p>
+
+<p>This week we started JavaScript. Not to be confused with Java&hellip; Amateurs. Just kidding. Now, I&rsquo;m turning into a code elitist. Worst things could happen? Probably a little premature at this point in my career. So, I was a little nervous to start JS. Maybe more than a little. In the preterm work I was so relieved when I got through that section. Alas, my first intuition was right. JS is a kind of a love hate relationship. On one hand, it&rsquo;s a pain. It does something and I&rsquo;m all &ldquo;WHERE DID THAT COME FROM?&rdquo; But then you can build all these really cool things that people love to use and do fancy things and make you feel like a bad ass. I haven&rsquo;t quite experienced that part of JS yet (here&rsquo;s to trusting that will come in time). So the jury is still out on JavaScript. One thing I will say is that it has made me love Ruby all the more. Ruby, I pine for our days of def end and each loops&hellip; I&rsquo;ll be returning to you soon.</p>
+
+<p>It&rsquo;s crazy to think about the change that has happened in the last 6 weeks. The first day of class I was afraid of the terminal. What if I mess something up and break my computer forever? What if I delete all my files? What if what if what if? Now we all joke about doing that because we all want an excuse to buy new Macbook (did you hear about the battery life&mdash; oh I went green with envy!). Now I&rsquo;m installing gems and deleting things and playing with reckless abandon. Maybe too much. Now the attitude is &ldquo;Eh, whatever. Throw it into the command line. If we break it we&rsquo;ll figure it out.&rdquo; Talk about a pendulum swing. On a different note, I&rsquo;ve finally made the transition to using two monitors. I resisted for so long. But as I&rsquo;ve delved more into this world, man, those two monitors are pretty sweet. And then there are the keyboard shortcuts, alfred, flux, trello, sublime&hellip; Oh the list goes on. We might just make a techie out of me yet&hellip;</p>
+
+<p>As this is the halfway mark, it only makes sense to spend some time looking forward. There&rsquo;s a lot that I&rsquo;m excited about. I&rsquo;m starting to enjoy development more, savoring the &lsquo;Aha&rsquo; moments and relishing in a web page that doesn&rsquo;t yield any errors (pun intended). I have more intuition with the next step, and sometimes it&rsquo;s a matter of talking through the logic so that I can formulate a plan. The more I code the more I realize that it&rsquo;s really helpful to start out with the big picture. What do you want the application to do? What are the smaller actions/operations you want it to perform in order to make the complete package? What is the first thing you need to build to be able to execute the &ldquo;main functions?&rdquo; And then just working through the logic of that individual function or method. And then occasionally zoom back out to make sure you are moving in the right direction. I don&rsquo;t know if this is right, or if this is what you are supposed to do. But for me it works, and it makes it a matter of plugging in the right pieces.</p>
+
+<p>I&rsquo;m really excited to start working on some of my own stuff. Every week I say that I&rsquo;m going to try and build something new over the weekend, and I never get around to it. My body crashes, I&rsquo;m trying to review from the previous week, and prepare for the new material. But now we have covered everything to make a &ldquo;fullstack&rdquo; website, so I can do it all. It&rsquo;s almost time (is time?) to go for it. And I like it. The hunger is there. What I really am working towards is being able to say &ldquo;I want to learn that&rdquo; and be able to do some reading, some tinkering, and figure it out. I&rsquo;m definitely not there yet, but guides and documentation are actually helpful. So that&rsquo;s a jump!</p>
+
+<p>As part of the CTO program we talked about Lean Startups this week. This philosphy was championed by Eric Ries. It was interesting and we had a lot of really great discussion about getting products out there. More than anything it made me excited to work in a dynamic environemnt and try to build something. This is one of the advantages of being a developer. The opportunity to build something from the ground up is there, you can work for an established company, or if you think you have a great idea you can pursue that too. We talked a lot about how the technology challenges are a small part of being a successful business. It&rsquo;s more about meeting a market need at the right time with the right balance of price, product, and innovation.All this talk about working and companies and code made me so excited to get out there and do it.Just gotta get this Javascript under control.</p>
+
+<p>As a side project I&rsquo;ve been reading <em>Getting More, How to Negotiate to Achieve your Goals in the Real World</em> by Stuart Diamond. Nimit recommended it&mdash;he had taken Diamond&rsquo;s class during his time at Wharton. So far it&rsquo;s pretty good, it&rsquo;s about different techniques you can use to negotiate and achieve your goals, even in the day to day interactions. Good recommendation on Nimit&rsquo;s part.</p>
+
+<p>Goals for Saturday/Sunday: Read <em>Eloquent Javascript</em>, Spruce up this blog&mdash;it needs some personality, no? Do some more reading on d3.js in preparation for the mini map project. And maybe spend a couple of hours outside in this beautiful weather tomorrow.</p>
+
+<p>Keeping in line with tradition&hellip;</p>
+
+<p>“Out of the frying pan and into the fire.” J.R.R. Tolkien, <em>The Hobbit</em> (on switching languages&hellip;)</p>
+
+<p>“For still there are so many things
+that I have never seen:
+in every wood in every spring
+there is a different green.” J.R.R. Tolkien, <em>The Fellowship of the Ring</em> (on <em>learning</em> new languages&hellip;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[These are the Days]]></title>
