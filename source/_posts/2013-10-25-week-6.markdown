@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Woah, We're Halfway There"
+date: 2013-10-25 09:09
+comments: true
+categories:
+---
+## Woah, We're Living on a Prayer.
+
+
+The halfway marker has come and gone. And I know every week I'm all "Where has the time gone?" Like I don't expect the days to change or something, but still. It really does fly by each week! I knew it would be like this when I decided to do Fullstack, but I didn't think I would feel this pressed for time. I need another day or two tacked onto each week to recover, review, and build something new. There truly are not enough hours in the day.
+
+
+This week we started JavaScript. Not to be confused with Java... Amateurs. Just kidding. Now, I'm turning into a code elitist. Worst things could happen? Probably a little premature at this point in my career. So, I was a little nervous to start JS. Maybe more than a little. In the preterm work I was so relieved when I got through that section. Alas, my first intuition was right. JS is a kind of a love hate relationship. On one hand, it's a pain. It does something and I'm all "WHERE DID THAT COME FROM?" But then you can build all these really cool things that people love to use and do fancy things and make you feel like a bad ass. I haven't quite experienced that part of JS yet (here's to trusting that will come in time). So the jury is still out on JavaScript. One thing I will say is that it has made me love Ruby all the more. Ruby, I pine for our days of def end and each loops... I'll be returning to you soon.
+
+
+It's crazy to think about the change that has happened in the last 6 weeks. The first day of class I was afraid of the terminal. What if I mess something up and break my computer forever? What if I delete all my files? What if what if what if? Now we all joke about doing that because we all want an excuse to buy new Macbook (did you hear about the battery life-- oh I went green with envy!). Now I'm installing gems and deleting things and playing with reckless abandon. Maybe too much. Now the attitude is "Eh, whatever. Throw it into the command line. If we break it we'll figure it out." Talk about a pendulum swing. On a different note, I've finally made the transition to using two monitors. I resisted for so long. But as I've delved more into this world, man, those two monitors are pretty sweet. And then there are the keyboard shortcuts, alfred, flux, trello, sublime... Oh the list goes on. We might just make a techie out of me yet...
+
+
+As this is the halfway mark, it only makes sense to spend some time looking forward. There's a lot that I'm excited about. I'm starting to enjoy development more, savoring the 'Aha' moments and relishing in a web page that doesn't yield any errors (pun intended). I have more intuition with the next step, and sometimes it's a matter of talking through the logic so that I can formulate a plan. The more I code the more I realize that it's really helpful to start out with the big picture. What do you want the application to do? What are the smaller actions/operations you want it to perform in order to make the complete package? What is the first thing you need to build to be able to execute the "main functions?" And then just working through the logic of that individual function or method. And then occasionally zoom back out to make sure you are moving in the right direction. I don't know if this is right, or if this is what you are supposed to do. But for me it works, and it makes it a matter of plugging in the right pieces.
+
+
+I'm really excited to start working on some of my own stuff. Every week I say that I'm going to try and build something new over the weekend, and I never get around to it. My body crashes, I'm trying to review from the previous week, and prepare for the new material. But now we have covered everything to make a "fullstack" website, so I can do it all. It's almost time (is time?) to go for it. And I like it. The hunger is there. What I really am working towards is being able to say "I want to learn that" and be able to do some reading, some tinkering, and figure it out. I'm definitely not there yet, but guides and documentation are actually helpful. So that's a jump!
+
+
+As part of the CTO program we talked about Lean Startups this week. This philosphy was championed by Eric Ries. It was interesting and we had a lot of really great discussion about getting products out there. More than anything it made me excited to work in a dynamic environemnt and try to build something. This is one of the advantages of being a developer. The opportunity to build something from the ground up is there, you can work for an established company, or if you think you have a great idea you can pursue that too. We talked a lot about how the technology challenges are a small part of being a successful business. It's more about meeting a market need at the right time with the right balance of price, product, and innovation.All this talk about working and companies and code made me so excited to get out there and do it.Just gotta get this Javascript under control.
+
+
+As a side project I've been reading *Getting More, How to Negotiate to Achieve your Goals in the Real World* by Stuart Diamond. Nimit recommended it--he had taken Diamond's class during his time at Wharton. So far it's pretty good, it's about different techniques you can use to negotiate and achieve your goals, even in the day to day interactions. Good recommendation on Nimit's part.
+
+Goals for Saturday/Sunday: Read *Eloquent Javascript*, Spruce up this blog--it needs some personality, no? Do some more reading on d3.js in preparation for the mini map project. And maybe spend a couple of hours outside in this beautiful weather tomorrow.
+
+
+Keeping in line with tradition...
+
+
+“Out of the frying pan and into the fire.” J.R.R. Tolkien, *The Hobbit* (on switching languages...)
+
+“For still there are so many things
+that I have never seen:
+in every wood in every spring
+there is a different green.” J.R.R. Tolkien, *The Fellowship of the Ring* (on *learning* new languages...)
