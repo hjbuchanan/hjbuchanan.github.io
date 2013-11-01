@@ -4,24 +4,18 @@
   <p>Hey <%= first_name %>,</p>
   <br>
   <p>
-    Hey Friend, long time no talk! I hope everything is going well and that you are enjoying this fall weather. I've been a busy learning how to code at Fullstack, I thought I'd shoot you a quick e-mail with a link to my blog. It's just a quick post about some of the things we've been learning and projects we've been working on. I know you've been dying to know more.
+    Hey everyone! I hope you are having a great fall so far. Happy first day of November! We are done with our 7th week at Fullstack and it's been a busy week. Hope you enjoy this week's posts! Click on the link below to check out some new posts and a new look on the blog.
   </p>
   <p>
-    Check out my new posts here:
 
     <a href="http://hjbuchanan.github.io">My Blog</a>
 
-    <% blog_content.entries.each do |entry|
-  if entry.published > 7.days.ago %>
-
-  <%= entry.content %>
-
     <% end %>
     <% end %>
 
   </p>
   <p>
-    Talk soon,<br>
+    Happy Fall,<br>
     Hannah Jane
   </p>
 </body>
