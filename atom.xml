@@ -4,7 +4,7 @@
   <title><![CDATA[Hanj Does Coding]]></title>
   <link href="http://hjbuchanan.github.io/atom.xml" rel="self"/>
   <link href="http://hjbuchanan.github.io/"/>
-  <updated>2013-11-01T09:27:05-04:00</updated>
+  <updated>2013-11-01T14:23:03-04:00</updated>
   <id>http://hjbuchanan.github.io/</id>
   <author>
     <name><![CDATA[Hannah Jane]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[They Didn't Build Rome in a Day]]></title>
+    <link href="http://hjbuchanan.github.io/blog/2013/11/01/geeking-out/"/>
+    <updated>2013-11-01T09:31:00-04:00</updated>
+    <id>http://hjbuchanan.github.io/blog/2013/11/01/geeking-out</id>
+    <content type="html"><![CDATA[<p>“I wish life was not so short,&lsquo; he thought. &#8216;Languages take such a time, and so do all the things one wants to know about.”
+― J.R.R. Tolkien</p>
+
+<p>It&rsquo;s a rainy morning in New York City. Today is the first day I didn&rsquo;t walk to Fullstack. It was raining and hot. I&rsquo;m used to that. But it&rsquo;s the first day of November and it shouldn&rsquo;t be this warm so I decided to treat myself to a subway ride.</p>
+
+<p>This week has been a tough one at Fullstack, as noted in my earlier blog post this week. We worked on a trip planner project which involved putting all the pieces together (rails, JavaScript, JQuery, and finally, AJAX). Talk about a lot of moving pieces. This afternoon will be spent in review, doing a project to make sure all of these concepts are nailed down before I move onto Backbone. It&rsquo;s hard because the frontend aspects of development don&rsquo;t feel as natural, but it&rsquo;s so important to being a Fullstack developer. User experience is so heavily dependent on all of this, and as we know, users are fickle. You have to grab and hold their attention. So I&rsquo;m going to keep at it until I love it and I can write JQuery, JavaScript, and AJAX in my sleep. And then checkout some Backbone. And then some Ember.</p>
+
+<p>Yesterday David spent a good 40 minutes with Robert and I debugging our Trip Planner project. Thanks, David. Watching you at the keyboard for that long inspired me&mdash;I&rsquo;m going to be practicing some shortcuts this weekend. Afterwards we somehow got on the topic of <em>Game of Thrones</em>. Which led to a conversation about the character development, plot theories floating around on the web, and George Martin&rsquo;s refusal to allow anyone else to write the books should he not be able to finish them. Yes, I&rsquo;ve surprisingly read all five. Or maybe I just want that to be surprising. Then we turned to other good reads out there, and needless to say my &ldquo;Must Read&rdquo; list expanded pretty quickly (<em>Cryptonomicon</em> and <em>Masters of Doom</em> were additions). I was completely &ldquo;geeking out&rdquo; talking about all these books. Mom, I blame you. Growing up reading was always a priority and books were one thing that we knew our Mom could never say no to. As a result, I&rsquo;ve realized that I&rsquo;ll need to incorporate a significant portion of my disposable income to a book allowance (perhaps I&rsquo;ll get an Oyster account, although I love a good paperback). All this to say, I realized that I have a terrible system for curating my &ldquo;to-read&rdquo; list.</p>
+
+<p>We always talk about how the best applications, or at least the ones that are the most fun to build, are the ones we build because they solve our own problems. Or you build something because you are passionate about it. Well, I realized that maybe keeping a list on my iphone wasn&rsquo;t exactly the best idea. And I also recognized that I love to read. Why not build something around that passion? So I don&rsquo;t know if this will evolve into a capstone project or if this is just something for fun, but I&rsquo;m going to build an application to help me keep track of my list. Maybe I&rsquo;ll suck in some fellow reading enthusiasts to test it out for me as well (I&rsquo;m looking at you, Anna and Abbey). We are going to be talking about our ideas more in our one-on-ones so hopefully there will be some exciting news to follow next week.</p>
+
+<p>“I wish life was not so short,&lsquo; he thought. &#8216;Languages take such a time, and so do all the things one wants to know about.”
+― J.R.R. Tolkien</p>
+
+<p>“Mercy!&ldquo; cried Gandalf. &#8220;If the giving of knowledge is to be the cure of your inquisitiveness, I shall spend all the rest of my days in answering you. What more should you like to know?&rdquo;</p>
+
+<p>&ldquo;The names of all the stars, and of all living things, and the whole history of Middle-Earth and Over-heave and of the Sundering Seas,&rdquo; laughed Pippin. &ldquo;Of course! What less?”
+― J.R.R. Tolkien, <em>The Two Towers</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JavaScript, JQuery, Rails, OH MY]]></title>
