@@ -21,9 +21,6 @@ Yesterday David spent a good 40 minutes with Robert and I debugging our Trip Pla
 We always talk about how the best applications, or at least the ones that are the most fun to build, are the ones we build because they solve our own problems. Or you build something because you are passionate about it. Well, I realized that maybe keeping a list on my iphone wasn't exactly the best idea. And I also recognized that I love to read. Why not build something around that passion? So I don't know if this will evolve into a capstone project or if this is just something for fun, but I'm going to build an application to help me keep track of my list. Maybe I'll suck in some fellow reading enthusiasts to test it out for me as well (I'm looking at you, Anna and Abbey). We are going to be talking about our ideas more in our one-on-ones so hopefully there will be some exciting news to follow next week.
 
 
-“I wish life was not so short,' he thought. 'Languages take such a time, and so do all the things one wants to know about.”
-― J.R.R. Tolkien
-
 
 “Mercy!" cried Gandalf. "If the giving of knowledge is to be the cure of your inquisitiveness, I shall spend all the rest of my days in answering you. What more should you like to know?"
 
