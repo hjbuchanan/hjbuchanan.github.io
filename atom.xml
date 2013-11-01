@@ -4,7 +4,7 @@
   <title><![CDATA[Hanj Does Coding]]></title>
   <link href="http://hjbuchanan.github.io/atom.xml" rel="self"/>
   <link href="http://hjbuchanan.github.io/"/>
-  <updated>2013-10-26T14:04:59-04:00</updated>
+  <updated>2013-11-01T09:27:05-04:00</updated>
   <id>http://hjbuchanan.github.io/</id>
   <author>
     <name><![CDATA[Hannah Jane]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JavaScript, JQuery, Rails, OH MY]]></title>
+    <link href="http://hjbuchanan.github.io/blog/2013/10/28/fsdfs/"/>
+    <updated>2013-10-28T19:40:00-04:00</updated>
+    <id>http://hjbuchanan.github.io/blog/2013/10/28/fsdfs</id>
+    <content type="html"><![CDATA[<p>Sometimes Mondays are tough.</p>
+
+<p>Okay friends, I said that I would start blogging more so that not <em>every single</em> post was a novel. As much as I know you secretly look forward to them on Fridays. The weekend can&rsquo;t start without that e-mail now can it? I digress.</p>
+
+<p>Today consisted of a heavy morning. We went over two projects from last week. It was good and helpful and necessary. But I had that familiar feeling of &ldquo;What is happening to me?&rdquo; Ha- just getting rocked by a new language. Oh the old, familiar feeling. JavaScript just feels so foreign and messy. I know it can do all these great things, but I have this &ldquo;ugh&rdquo; gut reaction to it. But then again, maybe I will be made into a lover of JS. Stranger things have happened. AND I did happen to win lunch by asking the &ldquo;obvious question&rdquo; about prototypes today. So maybe it&rsquo;s a sign. JavaScript is bearing good fruit so far. So after going over Test First and our Game of Life projects we broke for lunch and resumed on the topic of&hellip;</p>
+
+<p>JQUERY. JQuery y&#8217;all. Well, this wasn&rsquo;t as terrible as I anticiapted because Nimit had sent out some prep work for the week, <em>which I did</em>. And it really did help a ton. It&rsquo;s so much better when you have a reference for these things before diving in. We started a new project for today and tomorrow with a new partner (I managed to keep my seat that I&rsquo;ve sat in almost all of Fullstack&mdash;Thanks Robert and Wenson, such gentlemen). This project brings it all together. When we all switched back to Ruby there was a collective &ldquo;uhhh&rdquo; moment. It&rsquo;s a muscle. Ya gotta use it. So we were back in Ruby. And switching to HTML. And then back to JavaScript. Don&rsquo;t blink or you&rsquo;ll miss it we&rsquo;re so fast. Not really, but it&rsquo;s really cool to have a view of what the bigger picture looks like. Rails, Ruby, I missed you. Being back is like putting on that old familiar t-shirt. I&rsquo;m excited to do more of this project; we will definitely run into speed bumps, but we have all the tools. Now it&rsquo;s just going to be a matter of honing and getting more confident and being awesome. There, I said it. We are on the path to greatness.</p>
+
+<p>On a side note, I tried again to make reservations for some cronuts. I, yet again, have failed. I forgot because we were in a review and then it was TOO LATE. Soon I think I&rsquo;m going to have to give up on the dream of making a reservaton and put on my big girl jacket and wait in line. In the cold. For a pastry? Questioning my bold (and highly public) statements about this coveted delicacy. But you know what? I said I was going to do it and I told the whole wide world (web) about it. Which means you&rsquo;ll see me standing in that line soon.</p>
+
+<p>Happy Monday, Y&#8217;all.</p>
+
+<p>&ldquo;Maybe the paths that you each shall tread are already laid before your feet though you do not see them”
+― J.R.R. Tolkien, <em>The Fellowship of the Ring</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Woah, We're Halfway There]]></title>
