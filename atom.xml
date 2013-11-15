@@ -4,7 +4,7 @@
   <title><![CDATA[Hanj Does Coding]]></title>
   <link href="http://hjbuchanan.github.io/atom.xml" rel="self"/>
   <link href="http://hjbuchanan.github.io/"/>
-  <updated>2013-11-12T20:48:41-05:00</updated>
+  <updated>2013-11-15T11:10:23-05:00</updated>
   <id>http://hjbuchanan.github.io/</id>
   <author>
     <name><![CDATA[Hannah Jane]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hack On]]></title>
+    <link href="http://hjbuchanan.github.io/blog/2013/11/15/hack-on/"/>
+    <updated>2013-11-15T08:44:00-05:00</updated>
+    <id>http://hjbuchanan.github.io/blog/2013/11/15/hack-on</id>
+    <content type="html"><![CDATA[<p>“This is a story of how a Baggins had an adventure, and found himself doing and saying things altogether unexpected.”
+― J.R.R. Tolkien, <em>The Hobbit</em></p>
+
+<p>Capstones are underway. Sticky notes are moving. Ah, the sound of typing in the air. It&rsquo;s been a really fun week, and I&rsquo;ve enjoyed the change in pace. These two day sprints put a little bit of the pressure on, and it is once again confirmed that I thrive on structure with a dash of anxiety. It also plays into my strength as an &ldquo;achiever.&rdquo; But, of course, there&rsquo;s always time for the occasional ping pong break.</p>
+
+<p>Tomorrow is the New York Times hackathon. We&rsquo;ve been brainstorming ideas and trying to come up with some good hacks. There are a lot of sponsors with some really cool APIs and the possibilities are endless. I&rsquo;m excited to see what some of the other teams come up with. We might also incorporate some of the stuff that I&rsquo;ve been working on this week with my map application. Who knows? I&rsquo;m up for whatever and I&rsquo;m sure we will come up with something fun and interesting. And possible. I think I&rsquo;m more nervous about being in a new environment and presenting an idea in front of people who know A LOT about technology. But that&rsquo;s the name of the game. Time to break out those public speaking skills again.</p>
+
+<p>On Wednesday Imon and I attended a Women in Tech event through ISPossible. I think both of us forgot that there were non-engineering roles in companies; we&rsquo;ve been in the code bubble for awhile now. A lot of the questions were general about being a woman in tech, and Imon and I found ourselves wanting to know more about the technology their companies were using. That was a good feeling.  We definitely walked away with some good snippets, but the event started late and I found myself thinking &ldquo;I could be coding right now.&rdquo; That was the best feeling&mdash;to wish you had more time at your computer. All I want to do now is learn to write more code, delve deeper into my knowledge, and learn more languages. It&rsquo;s exciting but there&rsquo;s not enough time to do  everything I want to!</p>
+
+<p>This afternoon we will be demoing our capstone projects as they stand now. That&rsquo;s a little frightening at the moment, especially since there are a couple of bugs I need to work out, and it is NOT pretty. But the basic functionality is there. Working on the map project has been really fun and gratifying, but it&rsquo;s definitely developing as I go. It feels very fluid, and so far I like what it&rsquo;s turning into. Next week I want to round it out and maybe add a timeline feature. But I definitely want to work on another project. I want to build something with more traditional users and a more robust back end. I think that would be great practice and also help me nail done some skills that haven&rsquo;t been exercised as much since we started front-end development.</p>
+
+<p>Stay tuned this weekend for an update on the Hackathon.</p>
+
+<p>“For victory is victory, however small, nor is its worth only from what follows from it.”
+― J.R.R. Tolkien, *The Children of Húrin&amp;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I've Got the Eye of the Tiger]]></title>
