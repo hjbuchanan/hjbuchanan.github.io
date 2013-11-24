@@ -17,7 +17,7 @@ BackBone is still coming together. I'm still not tracking with everything it doe
 This Friday also marks our first round of mock interviews. There's "no pressure" but I definitely don't want to completely flop. I have learned, I have! Ha-- but it'll be good. Just another thing to focus on getting better at and continuing to grow and develop as a developer.
 
 
-Oh my gosh. I haven't even talked about our speakers. So Monday we had the founder of Beeminder, Daniel Reeves. I love his business model and idea. I think it's genius. Go checkout Beeminder if you have a goal that you are having trouble achieving. Then on Tuesday we had Emily Stolfo from MongoDB. The fact that they store objects in JSON-like objects. And documents and collections... WOW. I was geeking out over a Database. I have arrived. I want to try to use it for one of my projects before Fullstack. Thanks, Emily, for the inspiration!
+Oh my gosh. I haven't even talked about our speakers. So Monday we had the founder of Beeminder, Daniel Reeves. I love his business model and idea. I think it's genius. Go checkout Beeminder if you have a goal that you are having trouble achieving. Then on Tuesday we had Emily Stolfo from MongoDB. The fact that they store objects in JSON-like objects. And documents and collections... WOW. I was geeking out over a database. I have arrived. I want to try to use it for one of my projects before Fullstack. Thanks, Emily, for the inspiration!
 
 
 And we will be finishing off with Stacksgiving tomorrow. Feeling very thankful that I'm doing something exciting and challenging at this point in my life. And I love some good pumpkin pie.
