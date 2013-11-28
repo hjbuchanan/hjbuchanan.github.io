@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Falling"
+date: 2013-11-27 08:30
+comments: true
+categories:
+---
+
+New York can be tough on a girl. There are a lot of stairs in this city. "Stairs?" you say? Well, for a life long clutz they can pose a challenge, especially when coupled with rain, and a distaste for handrails and other frequently touched objects.Today it finally happened. I fell down the stairs to the subway platform. Oh, and there was a person right behind me. We then had an awkawrd exchange, you know the kind. Where you try to make the person feel better about completing wiping out and you hand them their wallet. Anyway, perhaps a nice strong blog post can redeem the morning.
+
+
+The New York Times Hackathon was a really great experience. It gave me more insight into this community, I got to work on a cool project, and oh did I mention that one of the Fullstack teams walked away with "People's Choice Award"? We can hack and we have personality--ha. The New York Times were gracious hosts, and I enjoyed seeing all the creative projects that people came up with using the different APIs. There were a lot to choose from, and I found myself wanting to use them all. But part of the code process is refining, steering the course, and not getting side tracked. Which for me, meant building out a heat map for my news application. I used the number of returns on the Article API within a certain time range for the data. Nimit and I then normalized those numbers against each other using the maximum value and a log function (fancy fancy!) to determine the different levels. From there it was some simple JavaScript to assign the colors based on the level. It was the best feeling to see those colors show up (specifically, shades of blue).
+
+This week Julian and I started working on the Fullstack Hiring application. Basically we are putting a Backbone application on top of what Nimit and David have built, and also practicing with some interactive web design so that it can be used on mobile during Demo Day. I had been dabbling in Backbone before this, but this project has definitely been helpful in bringing it all together. I'm also getting to play around with some mobile styling so that's been really fun too. Fun and frustrating--as it goes with CSS. And there's nothing like building something that you know is going to be used. I write better code and I'm more excited about the project.
+
+
+Resumes, project finalization, and interview prep is underway. It's stressful, but exciting too. Thanksgiving will be a nice middle of the week break, but I think most of us plan on coming in on Friday to keep cranking away with each other. Can't keep us away from the code for too long.
+
+
+“For we put the thought of all that we love into all that we make.”
+― J.R.R. Tolkien, *The Fellowship of the Ring* (this may be my favorite one yet!)
